@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @nirmit-1606
+- 👋 Hi, I’m Nirmit @nirmit-1606
 - 👀 I’m interested in Designing
-- 🌱 I’m currently learning Web Development, animation using CSS.
+- 🌱 I’m currently learning Computer Graphics - Augmented & Virtual Reality with Unreal Engine 5.3, Geometric Modeling in Computer Graphics.
+- Learned Skills: C, C++, Java, Python, OpenGL, HTML, CSS, JavaScript, PHP, Machine Learning
