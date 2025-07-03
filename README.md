@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Nirmit.
-- 👀 I’m interested in designing and exploring the realms of computer graphics.
-- 🌱 Currently, I'm delving into Computer Graphics - Augmented & Virtual Reality with Unreal Engine 5.3 and Geometric Modeling in Computer Graphics.
-- 💡 I have expertise in C, C++, Java, Python, OpenGL, GLSL, HTML, CSS, JavaScript, PHP, and Machine Learning.
+# UI/Frontend Developer
 
-Looking forward to blending creativity with technology and pushing the boundaries of design!
+Expertise in building high-performance, responsive web applications using React, Next.js, Node.js, and modern JavaScript. I specialize in creating clean, user-friendly UIs, optimizing app performance, and ensuring accessibility across all devices.
+
+## Key Skills:
+
+- **Frontend**: React, Next.js, HTML5, CSS3, SASS, Tailwind CSS
+- **State Management**: Redux, Context API
+- **Backend**: Node.js, Express.js, API Integration (REST, GraphQL)
+- **Performance**: Lazy Loading, Code Splitting, Memoization
+- **Testing**: Jest, React Testing Library, Cypress
+- **Tools**: Git, GitHub, Webpack, Vite, Figma, VS Code
